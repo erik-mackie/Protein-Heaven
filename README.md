@@ -23,11 +23,11 @@ Restaurant admins will also receive a SMS to alert that a new order is in the sy
 ## Screen-shots
 
 ### Main page
-!["Screenshot of main page"](https://github.com/silviabon/Protein-Heaven/blob/master/images/main_page.png?raw=true)
+!["Screenshot of main page"](https://github.com/erik-mackie/Protein-Heaven/blob/master/media/main_page.png)
 ### Menu
-!["Screenshot of menu page"](https://github.com/silviabon/Protein-Heaven/blob/master/images/menu.png?raw=true)
+!["Screenshot of menu page"](https://github.com/erik-mackie/Protein-Heaven/blob/master/media/menu.png)
 ### Admin page - orders list
-!["Screenshot of admin page - orders list"](https://github.com/silviabon/Protein-Heaven/blob/master/images/admin_page.png?raw=true)
+!["Screenshot of admin page - orders list"](https://github.com/erik-mackie/Protein-Heaven/blob/master/media/admin_page.png)
 
 ## Dependencies
 
