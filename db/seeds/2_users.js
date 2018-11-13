@@ -5,13 +5,13 @@ exports.seed = function(knex, Promise) {
         knex('users').insert({
           id: 1,
           name: 'Silvia Bon',
-          phone_number: 6044013161,
+          phone_number: 777 777 7777,
           access_level: 2
       }),
         knex('users').insert({
           id: 2,
           name: 'Mandy Fung',
-          phone_number: 6047288182,
+          phone_number: 888 888 8888,
           access_level: 1
         }),
 
